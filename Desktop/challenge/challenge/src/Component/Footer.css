@@ -1,0 +1,31 @@
+.footer{
+background-color: black;
+display: flex;
+flex-direction: column;  
+}
+.h3f{
+    margin: 10px 20px;
+    border:solid 3px blanchedalmond;
+    border-radius: 25px;
+    color: blanchedalmond;
+}
+.list{
+   
+    display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+list-style: none;
+justify-content: space-between;
+    
+}
+li{
+    width: 50%;
+    margin-top: 10px;
+}
+.imgfooter{
+    margin: auto;
+    vertical-align: middle;
+    width: 10%;
+    height: auto;
+border-radius: 50px;
+}
